@@ -1,0 +1,7 @@
+Vilken kabel används i tvnät?/(A)Coax, (B)Ethernet, (C)Fiber, (D)TP, /(A)Coax
+Hur lång kan en ethernet kabel vara?/(A)150m, (B)100m, (C)50m, (D)200m, /(B)100m
+Vad står DNS för?/(A)Domain-Number-System, (B)Domain-Name-Supplier, (C)Domain-Name-System, (D)Domain-Number-Supplier, /(C)Domain-name-system
+Vad står DHCP för?/(A)Domain-Host-Control-Protocol, (B)Domain-Host-Configuration-Partition, (C)Domain-Host-Configuration-Protocol, (D) Domain-Head-Control-Partition, /(C)Domain-Host-Configuration-Protocol
+Vilken är den bästa ethernet kabeln?/(A)Cat-3, (B) Cat-5, (C)Cat-5e, (D)Cat-6, /(D)Cat-6
+Vad står GBIC för?/(A)Gigabyte-Interface-Control, (C) Gigabit-Interface-Converter, (B)Gigabit-Internship-Controller, (D)Gigabit-Interface-Control, /(B)Gigabit-Interface-Converter
+Vilken är den vanligaste typen av ethernet kabel?/(A)UTP, (B)ScTP, (C)STP, (D)FTP, /(A)UTP
